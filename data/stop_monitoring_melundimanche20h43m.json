@@ -1,0 +1,2359 @@
+{
+  "Siri": {
+    "ServiceDelivery": {
+      "ProducerRef": "IVTR_HET",
+      "ResponseMessageIdentifier": "IVTR_HET:ResponseMessage::a6405064-0b22-4015-b76a-a2dfa56eaee1:LOC:",
+      "ResponseTimestamp": "2022-11-20T19:45:09Z",
+      "StopMonitoringDelivery": [
+        {
+          "MonitoredStopVisit": [
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_152829:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Montereau"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41376:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::152829_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "KUMO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T19:12:00.000Z",
+                  "AimedDepartureTime": "2022-11-20T19:13:00.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "1"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Montereau"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T19:14:30.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T19:15:30.000Z",
+                  "Order": 14,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": true
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "152829"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:14:33.748Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_151974:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::151974_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "POMA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T19:14:00.000Z",
+                  "AimedDepartureTime": "2022-11-20T19:15:00.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "2"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T19:15:08.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T19:16:08.000Z",
+                  "Order": 13,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": true
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "151974"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:14:41.906Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_127392:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Goussainville"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41099:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::127392-127393_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "FUCA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedDepartureTime": "2022-11-20T19:16:40.000Z",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Goussainville"
+                    }
+                  ],
+                  "ExpectedDepartureTime": "2022-11-20T19:16:40.000Z",
+                  "Order": 1,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "127393"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T09:50:39.138Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_153787:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Melun"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41361:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::153786-153787_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "ZICO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T19:19:40.000Z",
+                  "ArrivalStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T19:22:10.000Z",
+                  "Order": 22,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "153787"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:21:33.245Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_5916:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::5916_20221120:LOC"
+                },
+                "LineRef": {
+                  "value": "STIF:Line::C02368:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T19:22:30.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "2"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T19:24:12.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T19:24:12.000Z",
+                  "Order": 26,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "5916"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:37:16.178Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_157835:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Melun"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41361:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::157835_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "ZOVO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T19:24:20.000Z",
+                  "ArrivalStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T19:29:48.000Z",
+                  "Order": 15,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "157835"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:29:33.278Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_127322:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Goussainville"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41099:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::127322-127323_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "FUCA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedDepartureTime": "2022-11-20T19:40:00.000Z",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Goussainville"
+                    }
+                  ],
+                  "ExpectedDepartureTime": "2022-11-20T19:40:00.000Z",
+                  "Order": 1,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "127323"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T09:50:39.313Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_151881:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Montargis"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:411481:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::151881_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "GAMO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T19:42:30.000Z",
+                  "AimedDepartureTime": "2022-11-20T19:43:30.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "1"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Montargis"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T19:44:45.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T19:45:45.000Z",
+                  "Order": 14,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "151881"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:44:33.591Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_152970:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::152970_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "PUMA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T19:43:00.000Z",
+                  "AimedDepartureTime": "2022-11-20T19:44:00.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "2"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T19:44:55.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T19:45:55.000Z",
+                  "Order": 7,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": true
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "152970"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:44:54.636Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_151471:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Montereau"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41376:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::151471_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "KOHO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedDepartureTime": "2022-11-20T19:48:00.000Z",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Montereau"
+                    }
+                  ],
+                  "ExpectedDepartureTime": "2022-11-20T19:48:00.000Z",
+                  "Order": 1,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "151471"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T02:08:16.291Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_153793:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Melun"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41361:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::153792-153793_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "ZICO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T19:49:40.000Z",
+                  "ArrivalStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T19:51:41.000Z",
+                  "Order": 22,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "153793"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:44:45.345Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_891249:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Auxerre"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "SNCF_ACCES_CLOUD:StopPoint:Q:87683573:LOC"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::891249_20221120:LOC"
+                },
+                "LineRef": {
+                  "value": "STIF:Line::C01745:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T20:04:00.000Z",
+                  "AimedDepartureTime": "2022-11-20T20:05:00.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "1"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Auxerre"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T20:04:00.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T20:05:00.000Z",
+                  "Order": 14,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "891249"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:43:31.630Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_151572:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Melun"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41361:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::151572_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "ZOHA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T20:07:00.000Z",
+                  "ArrivalStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T20:07:00.000Z",
+                  "Order": 10,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "151572"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:44:13.415Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_150302:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::150302_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "DUCA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedDepartureTime": "2022-11-20T20:09:30.000Z",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedDepartureTime": "2022-11-20T20:09:30.000Z",
+                  "Order": 1,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "150302"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T17:10:33.088Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_151980:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::151980_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "POMA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T20:13:00.000Z",
+                  "AimedDepartureTime": "2022-11-20T20:14:00.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "2"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T20:14:43.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T20:15:43.000Z",
+                  "Order": 13,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "151980"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:44:26.508Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_153797:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Melun"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41361:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::153796-153797_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "ZICO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T20:19:40.000Z",
+                  "ArrivalStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T20:19:40.000Z",
+                  "Order": 22,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "153797"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:44:30.350Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_157837:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Melun"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41361:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::157837_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "ZOVO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T20:24:20.000Z",
+                  "ArrivalStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T20:25:01.000Z",
+                  "Order": 15,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "157837"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:44:38.384Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_891250:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::891250_20221120:LOC"
+                },
+                "LineRef": {
+                  "value": "STIF:Line::C01745:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T20:23:00.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "2"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T20:25:07.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T20:25:07.000Z",
+                  "Order": 24,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "891250"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:42:09.285Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_150304:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::150304_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "DUCA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedDepartureTime": "2022-11-20T20:39:30.000Z",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedDepartureTime": "2022-11-20T20:39:30.000Z",
+                  "Order": 1,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "150304"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T13:45:08.210Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_151883:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Montargis"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:411481:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::151883_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "GAMO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T20:42:00.000Z",
+                  "AimedDepartureTime": "2022-11-20T20:43:00.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "1"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Montargis"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T20:42:00.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T20:43:00.000Z",
+                  "Order": 14,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "151883"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:44:05.304Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_152974:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::152974_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "PUMA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T20:44:00.000Z",
+                  "AimedDepartureTime": "2022-11-20T20:45:00.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "2"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T20:44:00.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T20:45:00.000Z",
+                  "Order": 7,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "152974"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T02:07:14.686Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_151473:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Montereau"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41376:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::151473_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "KOHO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedDepartureTime": "2022-11-20T20:48:00.000Z",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Montereau"
+                    }
+                  ],
+                  "ExpectedDepartureTime": "2022-11-20T20:48:00.000Z",
+                  "Order": 1,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "151473"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T02:08:08.392Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_153801:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Melun"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41361:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::153800-153801_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "ZICO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T20:49:40.000Z",
+                  "ArrivalStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T20:50:00.000Z",
+                  "Order": 22,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "153801"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:45:04.434Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_17766:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::17766_20221120:LOC"
+                },
+                "LineRef": {
+                  "value": "STIF:Line::C01745:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T21:02:30.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "2"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T21:02:30.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T21:02:30.000Z",
+                  "Order": 32,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "17766"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:45:05.004Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_151574:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Melun"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41361:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::151574_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "ZOHA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T21:07:00.000Z",
+                  "ArrivalStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T21:07:00.000Z",
+                  "Order": 10,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "151574"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T02:09:06.557Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_150306:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::150306_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "DUCA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedDepartureTime": "2022-11-20T21:09:30.000Z",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedDepartureTime": "2022-11-20T21:09:30.000Z",
+                  "Order": 1,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "150306"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T13:45:29.923Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_152879:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Montereau"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41376:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::152879_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "KUMO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T21:12:10.000Z",
+                  "AimedDepartureTime": "2022-11-20T21:13:10.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "1"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Montereau"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T21:12:10.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T21:13:10.000Z",
+                  "Order": 14,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "152879"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T07:01:45.675Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_151984:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::151984_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "POMA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T21:14:00.000Z",
+                  "AimedDepartureTime": "2022-11-20T21:15:00.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "2"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T21:14:00.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T21:15:00.000Z",
+                  "Order": 13,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "151984"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T19:02:42.774Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_153723:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Melun"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41361:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::153722-153723_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "ZICO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T21:34:40.000Z",
+                  "ArrivalStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T21:34:40.000Z",
+                  "Order": 22,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "153723"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T09:48:46.733Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_151885:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Montargis"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:411481:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::151885_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "GAMO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T21:42:30.000Z",
+                  "AimedDepartureTime": "2022-11-20T21:43:30.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "1"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Montargis"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T21:42:30.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T21:43:30.000Z",
+                  "Order": 14,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "151885"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T02:07:51.213Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_152978:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::152978_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "PUMA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T21:44:00.000Z",
+                  "AimedDepartureTime": "2022-11-20T21:45:00.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "2"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T21:44:00.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T21:45:00.000Z",
+                  "Order": 7,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "152978"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T02:08:49.645Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_150308:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::150308_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "DACA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedDepartureTime": "2022-11-20T21:48:00.000Z",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedDepartureTime": "2022-11-20T21:48:00.000Z",
+                  "Order": 1,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "150308"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T09:19:39.141Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_151475:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Montereau"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41376:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::151475_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "KOHO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedDepartureTime": "2022-11-20T21:48:00.000Z",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Montereau"
+                    }
+                  ],
+                  "ExpectedDepartureTime": "2022-11-20T21:48:00.000Z",
+                  "Order": 1,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "151475"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T02:08:16.161Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_153725:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Melun"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41361:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::153724-153725_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "ZICO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T22:03:00.000Z",
+                  "ArrivalStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T22:03:00.000Z",
+                  "Order": 22,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "153725"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T09:48:45.467Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_151576:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Melun"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41361:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::151576_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "ZOHA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T22:07:00.000Z",
+                  "ArrivalStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T22:07:00.000Z",
+                  "Order": 10,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "151576"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T02:07:59.493Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_150310:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::150310_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "DACA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedDepartureTime": "2022-11-20T22:09:30.000Z",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedDepartureTime": "2022-11-20T22:09:30.000Z",
+                  "Order": 1,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "150310"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T03:53:28.781Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_152881:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Montereau"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41376:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::152881_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "KUMO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T22:15:30.000Z",
+                  "AimedDepartureTime": "2022-11-20T22:16:30.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "1"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Montereau"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T22:15:30.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T22:16:30.000Z",
+                  "Order": 14,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "152881"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T02:08:57.391Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_151986:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Lyon"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41396:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::151986_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "POMA"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01731:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T22:25:30.000Z",
+                  "AimedDepartureTime": "2022-11-20T22:26:30.000Z",
+                  "ArrivalPlatformName": {
+                    "value": "2"
+                  },
+                  "ArrivalStatus": "onTime",
+                  "DepartureStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Lyon"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T22:25:30.000Z",
+                  "ExpectedDepartureTime": "2022-11-20T22:26:30.000Z",
+                  "Order": 13,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "151986"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T02:08:59.346Z"
+            },
+            {
+              "ItemIdentifier": "SNCF_ACCES_CLOUD:Item::41361_153727:LOC",
+              "MonitoredVehicleJourney": {
+                "DestinationName": [
+                  {
+                    "value": "Gare de Melun"
+                  }
+                ],
+                "DestinationRef": {
+                  "value": "STIF:StopPoint:Q:41361:"
+                },
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": {
+                    "value": "any"
+                  },
+                  "DatedVehicleJourneyRef": "SNCF_ACCES_CLOUD:VehicleJourney::153726-153727_20221120:LOC"
+                },
+                "JourneyNote": [
+                  {
+                    "value": "ZACO"
+                  }
+                ],
+                "LineRef": {
+                  "value": "STIF:Line::C01728:"
+                },
+                "MonitoredCall": {
+                  "AimedArrivalTime": "2022-11-20T22:28:10.000Z",
+                  "ArrivalStatus": "onTime",
+                  "DestinationDisplay": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "ExpectedArrivalTime": "2022-11-20T22:28:10.000Z",
+                  "Order": 28,
+                  "StopPointName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "VehicleAtStop": false
+                },
+                "OperatorRef": {
+                  "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                },
+                "TrainNumbers": {
+                  "TrainNumberRef": [
+                    {
+                      "value": "153727"
+                    }
+                  ]
+                }
+              },
+              "MonitoringRef": {
+                "value": "STIF:StopPoint:Q:41361:"
+              },
+              "RecordedAtTime": "2022-11-20T02:07:57.340Z"
+            }
+          ],
+          "ResponseTimestamp": "2022-11-20T19:45:09Z",
+          "Status": "true",
+          "Version": "2.0"
+        }
+      ]
+    }
+  }
+}

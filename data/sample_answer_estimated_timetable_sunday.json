@@ -1,0 +1,1948 @@
+{
+  "Siri": {
+    "ServiceDelivery": {
+      "EstimatedTimetableDelivery": [
+        {
+          "EstimatedJourneyVersionFrame": [
+            {
+              "EstimatedVehicleJourney": [
+                {
+                  "DatedVehicleJourneyRef": {
+                    "value": "SNCF_ACCES_CLOUD:VehicleJourney::151572_20221120:LOC"
+                  },
+                  "DestinationName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "DestinationRef": {
+                    "value": "STIF:StopPoint:Q:41361:"
+                  },
+                  "DirectionRef": {},
+                  "EstimatedCalls": {
+                    "EstimatedCall": [
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:38:10.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:38:40.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:38:10.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:38:40.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41383:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:34:10.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:34:40.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:34:10.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:34:40.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41384:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:42:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:43:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:42:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:43:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41382:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:54:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:55:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:54:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:55:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41379:"
+                        }
+                      },
+                      {
+                        "AimedDepartureTime": "2022-11-20T19:30:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedDepartureTime": "2022-11-20T19:30:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41376:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:58:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:59:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:58:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:59:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41378:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:47:20.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:47:50.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:47:20.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:47:50.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41381:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T20:02:10.000Z",
+                        "AimedDepartureTime": "2022-11-20T20:02:40.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T20:02:10.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T20:02:40.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41377:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:49:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:50:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:49:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:50:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41380:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T20:07:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T20:07:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41361:"
+                        }
+                      }
+                    ]
+                  },
+                  "FirstOrLastJourney": "unspecified",
+                  "JourneyNote": [
+                    {
+                      "value": "ZOHA"
+                    }
+                  ],
+                  "LineRef": {
+                    "value": "STIF:Line::C01731:"
+                  },
+                  "OperatorRef": {
+                    "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                  },
+                  "OriginRef": {},
+                  "ProductCategoryRef": {},
+                  "PublishedLineName": [
+                    {
+                      "value": "R"
+                    }
+                  ],
+                  "RecordedAtTime": "2022-11-20T02:07:37.545Z",
+                  "RouteRef": {}
+                },
+                {
+                  "DatedVehicleJourneyRef": {
+                    "value": "SNCF_ACCES_CLOUD:VehicleJourney::151467_20221120:LOC"
+                  },
+                  "DestinationName": [
+                    {
+                      "value": "Gare de Montereau"
+                    }
+                  ],
+                  "DestinationRef": {
+                    "value": "STIF:StopPoint:Q:41376:"
+                  },
+                  "DirectionRef": {},
+                  "EstimatedCalls": {
+                    "EstimatedCall": [
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:58:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:59:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:58:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:59:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41379:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:10:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:11:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:10:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:11:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41382:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:54:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:55:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:54:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:55:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41378:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:03:40.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:04:10.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:03:40.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:04:10.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41380:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:25:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:25:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41376:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:51:30.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:52:00.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:51:30.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:52:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41377:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:06:00.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:06:30.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:06:00.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:06:30.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41381:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:15:30.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:16:00.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:15:30.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:16:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41383:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:19:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:20:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:19:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:20:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41384:"
+                        }
+                      },
+                      {
+                        "AimedDepartureTime": "2022-11-20T18:48:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedDepartureTime": "2022-11-20T18:48:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41361:"
+                        }
+                      }
+                    ]
+                  },
+                  "FirstOrLastJourney": "unspecified",
+                  "JourneyNote": [
+                    {
+                      "value": "KOHO"
+                    }
+                  ],
+                  "LineRef": {
+                    "value": "STIF:Line::C01731:"
+                  },
+                  "OperatorRef": {
+                    "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                  },
+                  "OriginRef": {},
+                  "ProductCategoryRef": {},
+                  "PublishedLineName": [
+                    {
+                      "value": "R"
+                    }
+                  ],
+                  "RecordedAtTime": "2022-11-20T02:08:03.776Z",
+                  "RouteRef": {}
+                },
+                {
+                  "DatedVehicleJourneyRef": {
+                    "value": "SNCF_ACCES_CLOUD:VehicleJourney::151471_20221120:LOC"
+                  },
+                  "DestinationName": [
+                    {
+                      "value": "Gare de Montereau"
+                    }
+                  ],
+                  "DestinationRef": {
+                    "value": "STIF:StopPoint:Q:41376:"
+                  },
+                  "DirectionRef": {},
+                  "EstimatedCalls": {
+                    "EstimatedCall": [
+                      {
+                        "AimedArrivalTime": "2022-11-20T20:15:30.000Z",
+                        "AimedDepartureTime": "2022-11-20T20:16:00.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T20:15:30.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T20:16:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41383:"
+                        }
+                      },
+                      {
+                        "AimedDepartureTime": "2022-11-20T19:48:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedDepartureTime": "2022-11-20T19:48:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41361:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T20:06:00.000Z",
+                        "AimedDepartureTime": "2022-11-20T20:06:30.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T20:06:00.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T20:06:30.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41381:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:54:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:55:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:54:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:55:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41378:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:58:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:59:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:58:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:59:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41379:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T20:25:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T20:25:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41376:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T20:10:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T20:11:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T20:10:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T20:11:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41382:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:51:30.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:52:00.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:51:30.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:52:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41377:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T20:03:40.000Z",
+                        "AimedDepartureTime": "2022-11-20T20:04:10.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T20:03:40.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T20:04:10.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41380:"
+                        }
+                      }
+                    ]
+                  },
+                  "FirstOrLastJourney": "unspecified",
+                  "JourneyNote": [
+                    {
+                      "value": "KOHO"
+                    }
+                  ],
+                  "LineRef": {
+                    "value": "STIF:Line::C01731:"
+                  },
+                  "OperatorRef": {
+                    "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                  },
+                  "OriginRef": {},
+                  "ProductCategoryRef": {},
+                  "PublishedLineName": [
+                    {
+                      "value": "R"
+                    }
+                  ],
+                  "RecordedAtTime": "2022-11-20T02:08:16.410Z",
+                  "RouteRef": {}
+                },
+                {
+                  "DatedVehicleJourneyRef": {
+                    "value": "SNCF_ACCES_CLOUD:VehicleJourney::151449_20221120:LOC"
+                  },
+                  "DestinationName": [
+                    {
+                      "value": "Gare de Montereau"
+                    }
+                  ],
+                  "DestinationRef": {
+                    "value": "STIF:StopPoint:Q:41376:"
+                  },
+                  "DirectionRef": {},
+                  "EstimatedCalls": {
+                    "EstimatedCall": [
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:06:00.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:06:30.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:06:00.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:06:30.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41381:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:54:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:55:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:54:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:55:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41378:"
+                        }
+                      },
+                      {
+                        "AimedDepartureTime": "2022-11-20T17:48:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedDepartureTime": "2022-11-20T17:48:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41361:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:19:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:20:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:19:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:20:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41384:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:25:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:25:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41376:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:51:30.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:52:00.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:51:30.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:52:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41377:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:10:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:11:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:10:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:11:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41382:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:15:30.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:16:00.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:15:30.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:16:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41383:"
+                        }
+                      }
+                    ]
+                  },
+                  "FirstOrLastJourney": "unspecified",
+                  "JourneyNote": [
+                    {
+                      "value": "KOHO"
+                    }
+                  ],
+                  "LineRef": {
+                    "value": "STIF:Line::C01731:"
+                  },
+                  "OperatorRef": {
+                    "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                  },
+                  "OriginRef": {},
+                  "ProductCategoryRef": {},
+                  "PublishedLineName": [
+                    {
+                      "value": "R"
+                    }
+                  ],
+                  "RecordedAtTime": "2022-11-20T02:08:01.792Z",
+                  "RouteRef": {}
+                },
+                {
+                  "DatedVehicleJourneyRef": {
+                    "value": "SNCF_ACCES_CLOUD:VehicleJourney::151560_20221120:LOC"
+                  },
+                  "DestinationName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "DestinationRef": {
+                    "value": "STIF:StopPoint:Q:41361:"
+                  },
+                  "DirectionRef": {},
+                  "EstimatedCalls": {
+                    "EstimatedCall": [
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:38:10.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:38:40.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:38:10.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:38:40.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41383:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:58:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:59:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:58:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:59:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41378:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:47:20.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:47:50.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:47:20.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:47:50.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41381:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:54:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:55:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:54:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:55:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41379:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:42:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:43:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:42:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:43:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41382:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:34:10.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:34:40.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:34:10.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:34:40.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41384:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:49:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:50:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:49:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:50:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41380:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:07:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:07:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41361:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:02:10.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:02:40.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:02:10.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:02:40.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41377:"
+                        }
+                      },
+                      {
+                        "AimedDepartureTime": "2022-11-20T17:30:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedDepartureTime": "2022-11-20T17:30:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41376:"
+                        }
+                      }
+                    ]
+                  },
+                  "FirstOrLastJourney": "unspecified",
+                  "JourneyNote": [
+                    {
+                      "value": "ZOHA"
+                    }
+                  ],
+                  "LineRef": {
+                    "value": "STIF:Line::C01731:"
+                  },
+                  "OperatorRef": {
+                    "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                  },
+                  "OriginRef": {},
+                  "ProductCategoryRef": {},
+                  "PublishedLineName": [
+                    {
+                      "value": "R"
+                    }
+                  ],
+                  "RecordedAtTime": "2022-11-20T02:07:14.878Z",
+                  "RouteRef": {}
+                },
+                {
+                  "DatedVehicleJourneyRef": {
+                    "value": "SNCF_ACCES_CLOUD:VehicleJourney::152819_20221120:LOC"
+                  },
+                  "DestinationName": [
+                    {
+                      "value": "Gare de Montereau"
+                    }
+                  ],
+                  "DestinationRef": {
+                    "value": "STIF:StopPoint:Q:41376:"
+                  },
+                  "DirectionRef": {},
+                  "EstimatedCalls": {
+                    "EstimatedCall": [
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:08:00.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:07:19.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:07:19.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41370:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:06:40.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:05:59.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:05:59.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41367:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:03:30.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:00:23.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:00:23.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41365:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T16:58:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T16:57:10.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T16:57:10.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41362:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T16:56:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T16:55:23.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T16:55:23.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41360:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:01:40.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T16:58:58.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T16:58:58.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41364:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:25:00.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:26:00.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:25:00.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:26:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41372:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:09:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:08:39.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:08:39.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41368:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:31:30.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:32:30.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:31:30.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:32:30.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41374:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:43:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:43:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41376:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T16:51:10.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T16:52:11.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T16:52:11.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41337:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:04:30.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {
+                          "value": "A l'approche"
+                        },
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:03:49.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:03:49.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41366:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:18:10.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:19:10.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:18:10.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:19:10.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41371:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:12:20.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:13:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:11:39.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:13:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41361:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:10:50.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:10:09.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:10:09.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41369:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:29:00.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:29:00.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:29:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41373:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T16:59:40.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T16:58:01.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T16:58:01.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41363:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T16:52:00.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T16:52:48.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T16:52:48.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41338:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:34:30.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:35:30.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1M"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:34:30.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:35:30.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41375:"
+                        }
+                      }
+                    ]
+                  },
+                  "FirstOrLastJourney": "unspecified",
+                  "JourneyNote": [
+                    {
+                      "value": "KUMO"
+                    }
+                  ],
+                  "LineRef": {
+                    "value": "STIF:Line::C01731:"
+                  },
+                  "OperatorRef": {
+                    "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                  },
+                  "OriginRef": {},
+                  "ProductCategoryRef": {},
+                  "PublishedLineName": [
+                    {
+                      "value": "R"
+                    }
+                  ],
+                  "RecordedAtTime": "2022-11-20T17:03:16.573Z",
+                  "RouteRef": {}
+                },
+                {
+                  "DatedVehicleJourneyRef": {
+                    "value": "SNCF_ACCES_CLOUD:VehicleJourney::151570_20221120:LOC"
+                  },
+                  "DestinationName": [
+                    {
+                      "value": "Gare de Melun"
+                    }
+                  ],
+                  "DestinationRef": {
+                    "value": "STIF:StopPoint:Q:41361:"
+                  },
+                  "DirectionRef": {},
+                  "EstimatedCalls": {
+                    "EstimatedCall": [
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:47:20.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:47:50.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:47:20.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:47:50.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41381:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:58:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:59:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:58:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:59:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41378:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:02:10.000Z",
+                        "AimedDepartureTime": "2022-11-20T19:02:40.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:02:10.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T19:02:40.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41377:"
+                        }
+                      },
+                      {
+                        "AimedDepartureTime": "2022-11-20T18:30:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedDepartureTime": "2022-11-20T18:30:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41376:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:54:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:55:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:54:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:55:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41379:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:42:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:43:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:42:50.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:43:20.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41382:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:38:10.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:38:40.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:38:10.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:38:40.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41383:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T18:34:10.000Z",
+                        "AimedDepartureTime": "2022-11-20T18:34:40.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "2"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T18:34:10.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T18:34:40.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41384:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T19:07:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Melun"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T19:07:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41361:"
+                        }
+                      }
+                    ]
+                  },
+                  "FirstOrLastJourney": "unspecified",
+                  "JourneyNote": [
+                    {
+                      "value": "ZOHA"
+                    }
+                  ],
+                  "LineRef": {
+                    "value": "STIF:Line::C01731:"
+                  },
+                  "OperatorRef": {
+                    "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                  },
+                  "OriginRef": {},
+                  "ProductCategoryRef": {},
+                  "PublishedLineName": [
+                    {
+                      "value": "R"
+                    }
+                  ],
+                  "RecordedAtTime": "2022-11-20T02:07:37.829Z",
+                  "RouteRef": {}
+                },
+                {
+                  "DatedVehicleJourneyRef": {
+                    "value": "SNCF_ACCES_CLOUD:VehicleJourney::151447_20221120:LOC"
+                  },
+                  "DestinationName": [
+                    {
+                      "value": "Gare de Montereau"
+                    }
+                  ],
+                  "DestinationRef": {
+                    "value": "STIF:StopPoint:Q:41376:"
+                  },
+                  "DirectionRef": {},
+                  "EstimatedCalls": {
+                    "EstimatedCall": [
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:19:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:20:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:21:11.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:21:41.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41384:"
+                        }
+                      },
+                      {
+                        "AimedDepartureTime": "2022-11-20T16:48:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedDepartureTime": "2022-11-20T16:48:00.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41361:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:10:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:11:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:12:11.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:12:41.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41382:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T16:58:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T16:59:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:00:06.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:00:36.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41379:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:15:30.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:16:00.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:16:51.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:17:21.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41383:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:06:00.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:06:30.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:07:21.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:07:51.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41381:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T16:54:50.000Z",
+                        "AimedDepartureTime": "2022-11-20T16:55:20.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T16:56:01.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T16:56:31.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41378:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:25:00.000Z",
+                        "ArrivalPlatformName": {},
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:26:21.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41376:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T17:03:40.000Z",
+                        "AimedDepartureTime": "2022-11-20T17:04:10.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T17:05:01.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T17:05:31.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41380:"
+                        }
+                      },
+                      {
+                        "AimedArrivalTime": "2022-11-20T16:51:30.000Z",
+                        "AimedDepartureTime": "2022-11-20T16:52:00.000Z",
+                        "ArrivalPlatformName": {
+                          "value": "1"
+                        },
+                        "ArrivalProximityText": {},
+                        "ArrivalStatus": "onTime",
+                        "DepartureStatus": "onTime",
+                        "DestinationDisplay": [
+                          {
+                            "value": "Gare de Montereau"
+                          }
+                        ],
+                        "ExpectedArrivalTime": "2022-11-20T16:52:32.000Z",
+                        "ExpectedDepartureTime": "2022-11-20T16:53:02.000Z",
+                        "StopPointRef": {
+                          "value": "STIF:StopPoint:Q:41377:"
+                        }
+                      }
+                    ]
+                  },
+                  "FirstOrLastJourney": "unspecified",
+                  "JourneyNote": [
+                    {
+                      "value": "KOHO"
+                    }
+                  ],
+                  "LineRef": {
+                    "value": "STIF:Line::C01731:"
+                  },
+                  "OperatorRef": {
+                    "value": "SNCF_ACCES_CLOUD:Operator::SNCF:"
+                  },
+                  "OriginRef": {},
+                  "ProductCategoryRef": {},
+                  "PublishedLineName": [
+                    {
+                      "value": "R"
+                    }
+                  ],
+                  "RecordedAtTime": "2022-11-20T17:03:31.375Z",
+                  "RouteRef": {}
+                }
+              ]
+            }
+          ],
+          "ResponseTimestamp": "2022-11-20T17:03:00Z",
+          "Status": "true",
+          "Version": "2.0"
+        }
+      ],
+      "ProducerRef": "IVTR_HET",
+      "ResponseMessageIdentifier": "IVTR_HET:ResponseMessage::9bcf7dd3-7812-496e-9f3d-ac99d9fc9a11:LOC:",
+      "ResponseTimestamp": "2022-11-20T17:03:00Z"
+    }
+  }
+}
