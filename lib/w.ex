@@ -5,6 +5,9 @@ defmodule W do
 
   require Logger
 
+  @doc """
+      simple function to open json
+  """
   def open_json(path), do: path |> File.read!() |> Jason.decode!()
 
   def write_json(path, content), do: File.write(path, Jason.encode!(content))
