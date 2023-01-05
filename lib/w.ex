@@ -7,6 +7,9 @@ defmodule W do
 
   def open_json(path), do: path |> File.read!() |> Jason.decode!()
 
+  @doc """
+      simple function to write to json
+  """
   def write_json(path, content), do: File.write(path, Jason.encode!(content))
 
 
