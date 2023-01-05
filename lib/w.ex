@@ -6,7 +6,7 @@ defmodule W do
   require Logger
 
   @doc """
-      simple function to open json
+      simple function to open jsoN
   """
   def open_json(path), do: path |> File.read!() |> Jason.decode!()
 
